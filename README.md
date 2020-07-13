@@ -2,7 +2,7 @@
 
 <h3> I'm Maria Julia, but you can call me Maju! </h3>
 
-<p>For almost 3 years of my life I dedicated myself to communication and PR, but after 2 years working for technology companies as a PR, I decided to follow a new path and learn how to develop. My goal is to be a #FRONTEND developer!</p>
+<p>For 3 years of my life I dedicated myself to communication and PR, but after 2 years working for technology companies as a PR, I decided to follow a new path and learn how to develop. My goal is to be a #FRONTEND developer!</p>
 
 <p>Currently, I am dedicating myself to an online course called Launchbase from Rocketseat, and other projects to become a developer.</p>
 <p> I am studying HTML, CSS, JavaScript, Node.js,PostgreSQL, but focusing on the fisrt three,  and I am using Nunjucks template engine for most of my works. </p>
