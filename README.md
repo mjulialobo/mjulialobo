@@ -10,4 +10,6 @@
 
 <h4> Well, that's me! Hope you like my projects &#128151; </h4>
 
+<h1 align="center">
 <img src="https://media0.giphy.com/media/dsKnRuALlWsZG/giphy.gif?cid=ecf05e47e568df3f8d34662fd088ef5b50c55893da43d9ee&rid=giphy.gif"/>
+</h1>
