@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2>Hi there 👋</h2>
 
 <h3> I'm Maria Julia, but you can call me Maju! </h3>
 
