@@ -2,11 +2,11 @@
 
 <h3> I'm Maria Julia, but you can call me Maju! </h3>
 
-<p>For 3 years of my life I dedicated myself to communication and PR, but after 2 years working for technology companies as a PR, I decided to follow a new path and learn how to develop. My goal is to be a #FRONTEND developer!</p>
+<p>As soon as I left high school, I started to dedicate myself to communication and PR, but after 3 years at college and 2.5 years working for technology companies as a PR, I decided to follow a new path and learn how to develop. And now I am a #FRONTEND developer!</p>
 
-<p>Currently, I am dedicating myself to two awesome online courses, <a href="https://rocketseat.com.br/launchbase"> Launchbase </a> from Rocketseat, and <a href="https://www.udemy.com/course/web-completo/">Complete Web Development 2020 </a> from Udemy.</p>
-<p> I am studying HTML5, CSS3, , JavaScript, BootStrap 4, Node.js, PostgreSQL and MySQL, but focusing more on the fisrt four,  and I am using Nunjucks as template engine for most of my works. </p>
-<p> Also, I am looking for my first job in technology,  so that I can learn more and more, and put my knowledge into practice! </p>
+<p> Currently, I am working as a Product Hacker/Software Engineer at Centauro! </p>
+  
+<p> The technologies that I'm using are HTML, CSS, JavaScript, NodeJs, PostgreSQL, and I'm studying React, React Native and others </p>
 
 <h4> Well, that's me! Hope you like my projects &#128151; </h4>
 
