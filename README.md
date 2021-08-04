@@ -6,7 +6,7 @@
 
 <p> Currently, I am working as a Software Engineer at Centauro!  </p>
   
-<p> t I've had contact with JavaScript, Python, C# , and frameworks React, Node.js, React Native and Cement, but right now I am mostly focused in Javascript and its frameworks. </p>
+<p> I've had contact with JavaScript, Python, C# , and frameworks React, Node.js, React Native and Cement, but right now I am mostly focused in Javascript and its frameworks. </p>
 
 <h4> Well, that's me! Hope you like my projects &#128151; </h4>
 
