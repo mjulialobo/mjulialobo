@@ -4,9 +4,9 @@
 
 <p>As soon as I left high school, I started to dedicate myself to communication and PR, but after 3 years at college and 2.5 years working for technology companies as a PR, I decided to follow a new path and learn how to develop. And now I am a Web developer!</p>
 
-<p> Currently, I am working as a fullstack Process Hacker/Software Engineer at Centauro!  </p>
+<p> Currently, I am working as a Software Engineer at Centauro!  </p>
   
-<p> The technologies that I've had contact with are JavaScript, Python, C# , and frameworks React, Node.js, React Native and Cement. Also, I have experience with Google Scripts. </p>
+<p> t I've had contact with JavaScript, Python, C# , and frameworks React, Node.js, React Native and Cement, but right now I am mostly focused in Javascript and its frameworks. </p>
 
 <h4> Well, that's me! Hope you like my projects &#128151; </h4>
 
