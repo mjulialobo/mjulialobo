@@ -2,7 +2,7 @@
 
 <h3> I'm Maria Julia, but you can call me Maju! </h3>
 
-<p>As soon as I left high school, I started to dedicate myself to communication and PR, but after 3 years at college and 2.5 years working for technology companies as a PR, I decided to follow a new path and learn how to develop. And now I am a Web developer!</p>
+<p>As soon as I left high school, I started to dedicate myself to communication and PR, but after 3 years at college and 2.5 years working for technology companies as a PR, I decided to follow a new path and learn how to develop. And now I am a developer!</p>
 
 <p> Currently, I am working as a Software Engineer at Centauro!  </p>
   
