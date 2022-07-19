@@ -8,7 +8,7 @@ You can see some texts and projects that I developed during a mentoring project 
 
 <h4> Well, that's me! Hope you like my projects &#128151; </h4>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Stacks
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -20,6 +20,11 @@ You can see some texts and projects that I developed during a mentoring project 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components&logoColor=DB7093)&nbsp;
+![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=Storybook&logoColor=DB7093)&nbsp;
+![Google Optmize](https://img.shields.io/badge/-Google%20Optmize-05122A?style=flat&logo=Google%20Optimize&logoColor=B366F6)&nbsp;
+![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-05122A?style=flat&logo=Google%20Tag%20Manager&logoColor=246FDB)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=C21325)&nbsp;
 
 <h1 align="center">
 <img src="https://media0.giphy.com/media/dsKnRuALlWsZG/giphy.gif?cid=ecf05e47e568df3f8d34662fd088ef5b50c55893da43d9ee&rid=giphy.gif"/>
