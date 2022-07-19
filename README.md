@@ -15,11 +15,11 @@ You can see some texts and projects that I developed during a mentoring project 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NextJS](https://img.shields.io/badge/-Next.%20Js-05122A?style=flat&logo=Next.js&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![NextJS](https://img.shields.io/badge/-Next.%20Js-05122A?style=flat&logo=Next.js&logoColor=007ACC)&nbsp;
 
 <h1 align="center">
 <img src="https://media0.giphy.com/media/dsKnRuALlWsZG/giphy.gif?cid=ecf05e47e568df3f8d34662fd088ef5b50c55893da43d9ee&rid=giphy.gif"/>
