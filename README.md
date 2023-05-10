@@ -8,7 +8,7 @@ You can see some texts and projects that I developed during a mentoring project 
 
 <h4> Well, that's me! Hope you like my projects &#128151; </h4>
 
-## 🛠 &nbsp; Stacks
+## 🛠 &nbsp; Stacks and tools
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
