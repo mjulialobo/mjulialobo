@@ -29,6 +29,6 @@ You can see some texts and projects that I developed during a mentoring project 
 ![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry&logoColor=#362D59)
 
 <h1 align="center">
-<img src="https://media0.giphy.com/media/dsKnRuALlWsZG/giphy.gif?cid=ecf05e47e568df3f8d34662fd088ef5b50c55893da43d9ee&rid=giphy.gif"/>
+<img src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif"/>
 </h1>
 
