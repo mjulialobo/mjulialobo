@@ -2,7 +2,7 @@
 
 <h3> I'm Maria Julia, but you can call me Maju! </h3>
 
-As soon as I left high school, I started to dedicate myself to Communication and Public Relations, but after 3 years at college and working for technology companies as a PR, in 2020 I decided to follow a new path and learn how to develop, and now I am a programer!
+As soon as I left high school, I started to dedicate myself to Communication and Public Relations, but after 3 years at college and working for technology companies as a PR, in 2020 I decided to follow a new path and learn how to develop, and now I am a programmer!
  
 You can see some texts and projects that I developed during a mentoring project in this [repository](https://github.com/azraelgarden/maju-mentoria) accompanied by my mentor [Azrael Garden](https://www.linkedin.com/in/azrael-garden/) or follow what I've been doing lately through my [LinkedIn](https://www.linkedin.com/in/mariajulialobo/).
 
@@ -27,6 +27,7 @@ You can see some texts and projects that I developed during a mentoring project 
 ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-05122A?style=flat&logo=Google%20Tag%20Manager&logoColor=246FDB)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry&logoColor=#362D59)
+![Calibre](https://img.shields.io/badge/-Calibre-05122A?style=flat&logo=Calibre&logoColor=#362D59)
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif"/>
