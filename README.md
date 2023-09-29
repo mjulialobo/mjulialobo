@@ -29,6 +29,7 @@ You can see some texts and projects that I developed during a mentoring project 
 ![Sentry](https://img.shields.io/badge/-Sentry-05122A?style=flat&logo=Sentry&logoColor=#362D59)
 ![Calibre](https://img.shields.io/badge/-Calibre-05122A?style=flat&logo=Calibre&logoColor=#362D59)
 ![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=Datadog&logoColor=#632CA6)
+![Unleash](https://img.shields.io/badge/-Unleash-05122A?style=flat&logo=Unleash&logoColor=#632CA6)
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif"/>
