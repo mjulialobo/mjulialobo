@@ -18,7 +18,6 @@ You can see some texts and projects that I developed during a mentoring project 
 ![NextJS](https://img.shields.io/badge/-Next.%20Js-05122A?style=flat&logo=Next.js&logoColor=007ACC)&nbsp;
 ![NextSEO](https://img.shields.io/badge/-Next.%20Js%20SEO-05122A?style=flat&logo=Next.js&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest&logoColor=C21325)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-05122A?style=flat&logo=styled-components&logoColor=DB7093)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-05122A?style=flat&logo=Storybook&logoColor=DB7093)&nbsp;
