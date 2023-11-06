@@ -15,6 +15,7 @@ You can see some texts and projects that I developed during a mentoring project 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.%20Js-05122A?style=flat&logo=Next.js&logoColor=007ACC)&nbsp;
 ![NextSEO](https://img.shields.io/badge/-Next.%20Js%20SEO-05122A?style=flat&logo=Next.js&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
