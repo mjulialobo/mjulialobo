@@ -3,6 +3,10 @@
 <h3> I'm Maria Julia, but you can call me Maju! </h3>
 
 As soon as I left high school, I started to dedicate myself to Communication and Public Relations, but after 3 years at college and working for technology companies as a PR, in 2020 I decided to follow a new path and learn how to develop, and now I am a programmer!
+
+With a few years of experience with frontend, I have been through several projects of different complexities and sizes, used different tools and stacks such as Tailwind, Next, GTM, and others, and had experience with A/B testing, tracking, developing screens and complex features, and more.
+
+I'm always looking for opportunities to develop myself as a programmer and evolve technically!
  
 You can see some texts and projects that I developed during a mentoring project in this [repository](https://github.com/azraelgarden/maju-mentoria) accompanied by my mentor [Azrael Garden](https://www.linkedin.com/in/azrael-garden/) or follow what I've been doing lately through my [LinkedIn](https://www.linkedin.com/in/mariajulialobo/).
 
@@ -15,7 +19,8 @@ You can see some texts and projects that I developed during a mentoring project 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Angular](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
 ![NextJS](https://img.shields.io/badge/-Next.%20Js-05122A?style=flat&logo=Next.js&logoColor=007ACC)&nbsp;
 ![NextSEO](https://img.shields.io/badge/-Next.%20Js%20SEO-05122A?style=flat&logo=Next.js&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -30,6 +35,8 @@ You can see some texts and projects that I developed during a mentoring project 
 ![Datadog](https://img.shields.io/badge/-Datadog-05122A?style=flat&logo=Datadog&logoColor=#632CA6)
 ![Unleash](https://img.shields.io/badge/-Unleash-05122A?style=flat&logo=Unleash&logoColor=#632CA6)
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana&logoColor=#632CA6)
+![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
+
 
 <h1 align="center">
 <img src="https://media.giphy.com/media/xT3i1acWS2AQRKHgZi/giphy.gif"/>
