@@ -2,14 +2,12 @@
 
 <h3> I'm Maria Julia, but you can call me Maju! </h3>
 
-As soon as I left high school, I started to dedicate myself to Communication and Public Relations, but after 3 years at college and working for technology companies as a PR, in 2020 I decided to follow a new path and learn how to develop, and now I am a programmer!
+I’m a communications professional who transitioned into tech in 2020, bringing strong analytical thinking and creative problem-solving into front-end development.
 
-With a few years of experience with frontend, I have been through several projects of different complexities and sizes, used different tools and stacks such as Tailwind, Next, GTM, and others, and had experience with A/B testing, tracking, developing screens and complex features, and more.
+Since then, I’ve worked on a range of projects—from modern platforms to complex legacy systems—using tools and frameworks like React, Next.js, Tailwind CSS, and Google Tag Manager. I have hands-on experience with A/B testing, analytics tracking, and the development of dynamic UIs and intricate features that enhance user experience and performance.
 
-I'm always looking for opportunities to develop myself as a programmer and evolve technically!
+Currently, I’m a Frontend Developer at Tivita, where I continue to build scalable, user-centered interfaces while collaborating closely with cross-functional teams.
  
-You can see some texts and projects that I developed during a mentoring project in this [repository](https://github.com/azraelgarden/maju-mentoria) accompanied by my mentor [Azrael Garden](https://www.linkedin.com/in/azrael-garden/) or follow what I've been doing lately through my [LinkedIn](https://www.linkedin.com/in/mariajulialobo/).
-
 <h4> Well, that's me! Hope you like my projects &#128151; </h4>
 
 ## 🛠 &nbsp; Stacks and tools
